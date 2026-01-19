@@ -34,7 +34,7 @@ const Calculator = () => {
         <input
           type="text"
           readOnly
-          className="px-12 py-6 rounded bg-gray-200 text-black text-right  "
+          className="px-12 py-6 rounded-lg bg-gray-300 text-black text-right  "
           value={input || "0"}
         />
 
